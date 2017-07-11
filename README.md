@@ -4,6 +4,9 @@ RecycleView基本模型, 添加CardView
 取自開源模組, 修改而成
 https://github.com/yarolegovich/DiscreteScrollView
 
+
+![image](http://i.imgur.com/IkmyOMn.jpg)  
+
 1. 記得添加相關編譯
 compile 'com.yarolegovich:discrete-scrollview:1.2.0'
 compile 'com.android.support:cardview-v7:23.1.1'
@@ -15,4 +18,4 @@ compile 'com.github.bumptech.glide:glide:3.7.0'
 3. 如果想了解更多功能, 可以參考以下
 https://github.com/yarolegovich/DiscreteScrollView
 
-http://i.imgur.com/IkmyOMn.jpg
+
