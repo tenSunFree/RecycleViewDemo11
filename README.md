@@ -14,3 +14,5 @@ compile 'com.github.bumptech.glide:glide:3.7.0'
 
 3. 如果想了解更多功能, 可以參考以下
 https://github.com/yarolegovich/DiscreteScrollView
+
+http://i.imgur.com/IkmyOMn.jpg
