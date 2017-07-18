@@ -7,7 +7,6 @@ https://github.com/yarolegovich/DiscreteScrollView
 
 ![image](http://i.imgur.com/IkmyOMn.jpg)  
 
-
 附註
 --------
 1. 記得添加相關編譯                                          
@@ -17,9 +16,6 @@ cmpile 'com.github.bumptech.glide:glide:3.7.0'
 
 2. 有可能出現在modle的build.gradle, 報錯訊息, 'com.android.support:appcompat-v7:xx.xx.x'                                          
 報錯解決方法: 順著Android Studio的提示, 修改數值即可
-
-2. 有可能出現modle的build.gradle, 'com.android.support:appcompat-v7:xx.xx.x' 報錯
-解決方法: 順著Android Studio的提示, 修改數值即可
 
 3. 如果想了解更多功能, 可以參考以下
 https://github.com/yarolegovich/DiscreteScrollView
